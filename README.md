@@ -44,7 +44,7 @@ Join our expanding community of Terabox video enthusiasts. Utilize our platform 
 5. **Meta Description (Implied):** Summarized the post with essential information at the beginning.
 
 ---
-![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FPuneetStar%2FTeraBoxDL&label=V&countColor=%23263759&labelStyle=upper)
+![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FPuneetStar%2FTeraBox-Player&label=V&countColor=%23263759&labelStyle=upper)
 
 Some more keywords :-
 unlimited cloud storage,free 5tb unlimited cloud storage,unlimited cloud storage free,cloud storage,google drive unlimited storage free,free cloud storage,unlimited cloud storage lifetime free,unlimited,terabox cloud storage,terabox cloud storage space,terabox cloud storage review,terabox cloud storage space app,terabox cloud storage review hindi,storage,how to store unlimited photos in internet,how to store unlimited photos in online
